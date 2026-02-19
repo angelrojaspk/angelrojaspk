@@ -1,19 +1,19 @@
-# Welcome to My Professional Portfolio
+# Project Title
 
-Hello! I'm **Angel Rojas**, a passionate developer committed to building innovative solutions and contributing to meaningful projects. Thank you for visiting my portfolio!
+Some introductory text about the project.
 
-## Technologies
-- **Languages**: JavaScript, Python, Java, C++
-- **Frameworks**: React, Node.js, Django
-- **Databases**: MongoDB, PostgreSQL
-- **Tools**: Git, Docker, Jenkins
+## Installation
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelrojaspk&show_icons=true&theme=radical)
+Instructions for installation.
 
-## Contribution Information
-I actively contribute to various open-source projects. Here are some of my contributions:
-- **Project A**: [Link to Project A](https://github.com/username/project-a) - Description of my contributions.
-- **Project B**: [Link to Project B](https://github.com/username/project-b) - Description of my contributions.
+## Usage
 
-Feel free to reach out or check my repositories for more information!
+Instructions for usage.
+
+## Contributing
+
+Guidelines for contributing.
+
+## License
+
+Information about the project's license.
